@@ -1,5 +1,7 @@
 # Private Measurement
 
+This repository will be used for the work of the Private Advertising Technology Working Group in forming the Private Attribution Measurement specification.
+
 As established in [the 2022/02/09 meeting](https://github.com/patcg/meetings/blob/main/2022/02/09-telecon/README.md#minutes), this community group is interested in doing further work on private measurement and attribution processes and standards. As proposals around private measurement are developed further we should discuss them centrally and work outside the context of meetings. 
 
 This repository and its issues have been created to open up such a space to discuss the specific subset of Private Advertising Technology that deals with private measurement. 
